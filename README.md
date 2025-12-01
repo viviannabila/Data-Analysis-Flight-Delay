@@ -6,10 +6,12 @@ I have developed a comprehensive project in Excel and Tableau using public datas
 <a href="https://github.com/viviannabila/Data-Analysis-Flight-Delay/blob/main/Airline%20Delay%20Cleaned%20(untuk%20Tableau).xlsx">Flight Delay Dataset</a>
 
 # Question (KPIs)
-- What was the main factor causing flight delays in the US during the 2017–2022 period?
-- Which airline had the highest total delays during the observation period?
-- What is the average trend in carrier delay percentage from 2017 to 2022?
-- Which carrier contributed to the most delays in arrivals?
--    
+- What type of delay was most prevalent in flights in the United States during the 2017–2022 period?
+- Which airline contributed the most to delays?
+- When did a significant spike in delays occur?
+- In which region did the highest delays occur?
+- Why was the contribution of security delays so small compared to other types?
+- How did flight delay trends and patterns change over time?
+- Dashboard interaction <a href="https://public.tableau.com/views/DashboardFlightDelay_17638676088190/USFlightDelay?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
 
 
