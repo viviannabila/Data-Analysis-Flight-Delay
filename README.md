@@ -16,7 +16,7 @@ I have developed a comprehensive project in Excel and Tableau using public datas
 - Dashboard interaction <a href="https://public.tableau.com/views/DashboardFlightDelay_17638676088190/USFlightDelay?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View Dashboard</a>
 
 ## Process
--Verify data for missing values and anomalies, and reset the data.
+- Verify data for missing values and anomalies, and reset the data.
 - Ensure that the data is consistent and clean in terms of data type, data format, and values used.
 - Once the Excel data is clean, upload it to Tableau.
 - Create an interactive dashboard by creating a sheet for each visualization, designing the layout, adding objects and annotations, and combining all elements into a single dashboard.
